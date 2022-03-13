@@ -1,4 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
-  <term name="테스트" physicalName="test"/>
+  <term name="시퀀스" description="시퀀스" physicalName="seq" physicalDescription="시퀀스"/>
+  <term name="인덱스" description="인덱스?" physicalName="idx" physicalDescription="인덱스ㄴㅇㄹㄴㅇ"/>
+  <term name="카테고리" description="카테고리" physicalName="category" physicalDescription="카테고리test"/>
+  <term name="이름" description="이름" physicalName="name" physicalDescription="이름"/>
+  <term name="순서" description="순서" physicalName="order" physicalDescription="순서"/>
+  <term name="테이블" description="테이블" physicalName="table" physicalDescription="테이블"/>
+  <term name="구분" description="구분" physicalName="type" physicalDescription="구분"/>
+  <term name="고유번호" description="고유번호" physicalName="uuid" physicalDescription="고유번호"/>
+  <term name="원본" description="원본" physicalName="original" physicalDescription="원본"/>
+  <term name="파일" description="파일" physicalName="file" physicalDescription="파일"/>
+  <term name="확장자" description="확장자" physicalName="extension" physicalDescription="확장자"/>
+  <term name="생성일시" physicalName="created_datetime"/>
+  <term name="생성일자" physicalName="create_date"/>
+  <term name="생성시간" physicalName="create_time"/>
+  <term name="생성자" physicalName="created_id"/>
+  <term name="수정일자" physicalName="modified_date"/>
+  <term name="수정일시" physicalName="modified_datetime"/>
+  <term name="수정시간" physicalName="modified_time"/>
+  <term name="수정자" physicalName="modified_id"/>
+  <term name="제목" physicalName="title"/>
+  <term name="내용" physicalName="contents"/>
+  <term name="유저" physicalName="user"/>
+  <term name="질문" physicalName="questions"/>
+  <term name="답변" physicalName="answer"/>
+  <term name="상태" physicalName="status"/>
+  <term name="휴대폰번호" physicalName="phone"/>
+  <term name="이메일" physicalName="email"/>
+  <term name="메뉴" physicalName="menu"/>
+  <term name="총" physicalName="total"/>
+  <term name="금액" physicalName="price"/>
+  <term name="좋아요" physicalName="star"/>
+  <term name="사유" physicalName="reason"/>
+  <term name="프로필" physicalName="profile"/>
+  <term name="이미지" physicalName="image"/>
+  <term name="경로" physicalName="path"/>
+  <term name="닉네임" physicalName="nick_name"/>
+  <term name="성별" physicalName="gender"/>
+  <term name="생일" physicalName="birthday"/>
+  <term name="알람" physicalName="alarm"/>
+  <term name="점심" physicalName="lunch"/>
+  <term name="저녁" physicalName="dinner"/>
+  <term name="이벤트" physicalName="event"/>
+  <term name="서비스" physicalName="service"/>
+  <term name="시간" physicalName="time"/>
+  <term name="비밀번호" physicalName="password"/>
+  <term name="약관" physicalName="terms"/>
+  <term name="동의" physicalName="agree"/>
+  <term name="개인정보" physicalName="privacy"/>
+  <term name="위치" physicalName="location"/>
+  <term name="탈퇴" physicalName="secession"/>
+  <term name="메모" physicalName="memo"/>
 </tm:TermDictionary>
