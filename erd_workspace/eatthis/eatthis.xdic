@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tm:TermDictionary xmlns:tm="http://exerd.com/term-model" version="1.1">
-  <term name="시퀀스" description="시퀀스" physicalName="seq" physicalDescription="시퀀스"/>
-  <term name="인덱스" description="인덱스?" physicalName="idx" physicalDescription="인덱스ㄴㅇㄹㄴㅇ"/>
-  <term name="카테고리" description="카테고리" physicalName="category" physicalDescription="카테고리test"/>
-  <term name="이름" description="이름" physicalName="name" physicalDescription="이름"/>
-  <term name="순서" description="순서" physicalName="order" physicalDescription="순서"/>
-  <term name="테이블" description="테이블" physicalName="table" physicalDescription="테이블"/>
-  <term name="구분" description="구분" physicalName="type" physicalDescription="구분"/>
-  <term name="고유번호" description="고유번호" physicalName="uuid" physicalDescription="고유번호"/>
-  <term name="원본" description="원본" physicalName="original" physicalDescription="원본"/>
-  <term name="파일" description="파일" physicalName="file" physicalDescription="파일"/>
-  <term name="확장자" description="확장자" physicalName="extension" physicalDescription="확장자"/>
+  <term name="시퀀스" description="" physicalName="seq" physicalDescription=""/>
+  <term name="인덱스" description="" physicalName="idx" physicalDescription=""/>
+  <term name="카테고리" description="" physicalName="category" physicalDescription=""/>
+  <term name="이름" description="" physicalName="name" physicalDescription=""/>
+  <term name="순서" description="" physicalName="order" physicalDescription=""/>
+  <term name="테이블" description="" physicalName="table" physicalDescription=""/>
+  <term name="타입" description="" physicalName="type" physicalDescription=""/>
+  <term name="고유번호" description="" physicalName="uuid" physicalDescription=""/>
+  <term name="원본" description="" physicalName="original" physicalDescription=""/>
+  <term name="파일" description="" physicalName="file" physicalDescription=""/>
+  <term name="확장자" description="" physicalName="extension" physicalDescription=""/>
   <term name="생성일시" physicalName="created_datetime"/>
   <term name="생성일자" physicalName="create_date"/>
   <term name="생성시간" physicalName="create_time"/>
@@ -51,4 +51,12 @@
   <term name="위치" physicalName="location"/>
   <term name="탈퇴" physicalName="secession"/>
   <term name="메모" physicalName="memo"/>
+  <term name="번호" physicalName="number"/>
+  <term name="사유" physicalName="reason"/>
+  <term name="사용여부" physicalName="use_yn"/>
+  <term name="유저아이디" physicalName="user_id"/>
+  <term name="유저" physicalName="user"/>
+  <term name="회원가입" physicalName="sign_up"/>
+  <term name="구분" physicalName="type"/>
+  <term name="경로" physicalName="path"/>
 </tm:TermDictionary>

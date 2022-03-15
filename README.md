@@ -1,2 +1,2 @@
 # database
-project erd
+hshan project erd
