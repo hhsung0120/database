@@ -59,4 +59,11 @@
   <term name="회원가입" physicalName="sign_up"/>
   <term name="구분" physicalName="type"/>
   <term name="경로" physicalName="path"/>
+  <term name="매장" physicalName="store"/>
+  <term name="메뉴" physicalName="menu"/>
+  <term name="회원가입 구분" physicalName="sign_up_type"/>
+  <term name="저녁 알람 사용여부" physicalName="dinner_alarm_use_yn"/>
+  <term name="점심 알람 사용여부" physicalName="lunch_alarm_use_yn"/>
+  <term name="이벤트 알람 사용여부" physicalName="event_alarm_use_yn"/>
+  <term name="서비스 알람 사용여부" physicalName="service_alarm_use_yn"/>
 </tm:TermDictionary>
