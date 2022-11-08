@@ -22,14 +22,11 @@
   <term name="제목" physicalName="title"/>
   <term name="내용" physicalName="contents"/>
   <term name="유저" physicalName="user"/>
-  <term name="질문" physicalName="questions"/>
-  <term name="답변" physicalName="answer"/>
   <term name="상태" physicalName="status"/>
   <term name="휴대폰번호" physicalName="phone"/>
   <term name="이메일" physicalName="email"/>
   <term name="메뉴" physicalName="menu"/>
   <term name="총" physicalName="total"/>
-  <term name="금액" physicalName="price"/>
   <term name="좋아요" physicalName="star"/>
   <term name="사유" physicalName="reason"/>
   <term name="프로필" physicalName="profile"/>
@@ -62,8 +59,17 @@
   <term name="매장" physicalName="store"/>
   <term name="메뉴" physicalName="menu"/>
   <term name="회원가입 구분" physicalName="sign_up_type"/>
-  <term name="저녁 알람 사용여부" physicalName="dinner_alarm_use_yn"/>
-  <term name="점심 알람 사용여부" physicalName="lunch_alarm_use_yn"/>
-  <term name="이벤트 알람 사용여부" physicalName="event_alarm_use_yn"/>
-  <term name="서비스 알람 사용여부" physicalName="service_alarm_use_yn"/>
+  <term name="비밀모드" physicalName="secret_mode"/>
+  <term name="방" physicalName="room"/>
+  <term name="구분" physicalName="type"/>
+  <term name="카테고리" physicalName="category"/>
+  <term name="유저" physicalName="user"/>
+  <term name="아이디" physicalName="id"/>
+  <term name="보내는사람" physicalName="from_user_seq"/>
+  <term name="받는사람" physicalName="to_user_seq"/>
+  <term name="메시지" physicalName="message"/>
+  <term name="접속" physicalName="connect"/>
+  <term name="아이피" physicalName="ip"/>
+  <term name="권한" physicalName="permission"/>
+  <term name="역할" physicalName="role"/>
 </tm:TermDictionary>
